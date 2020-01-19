@@ -1,0 +1,7 @@
+
+for linkedlist problems check if 
+1. head == nullptr
+2. k=1 (one node) or 
+3. something's value is 1. 
+4. head -> next == nullptr.
+5. test on input on value of contraints mentioned in the problem to their extremes.
