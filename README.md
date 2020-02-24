@@ -1,3 +1,3 @@
 # 2019_DSA_Labs
-Solutions for DSA labs 2019
+Solutions for Data Structures and Algorithms labs 2019
 and various other implementations for problems in dsa topics.
