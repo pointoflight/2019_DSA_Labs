@@ -3,4 +3,4 @@ Solutions for Data Structures and Algorithms labs 2019
 and various other implementations for problems in dsa topics.
 
 
-Warning, Bad code ahead.
+☝🏻Warning!☝🏻 Beware of bad code. 😶
